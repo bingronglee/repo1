@@ -25,7 +25,6 @@
   ezdxf
   scipy
   numpy
-  sqlalchemy
   ```
 
 ### 2. 安裝依賴
